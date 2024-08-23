@@ -1,4 +1,8 @@
-Done  with [Dipesh Malviya](https://www.youtube.com/watch?v=HMP5e5utTwg&pp=ygUYcmVhY3QgdHlwZXNjcmlwdCBwcm9qZWN)
+# Technologies used
+ReactJS  \
+Typescript \
+Bootstrap\
+ Done  with [Dipesh Malviya](https://www.youtube.com/watch?v=HMP5e5utTwg&pp=ygUYcmVhY3QgdHlwZXNjcmlwdCBwcm9qZWN)
 
 
 
